@@ -11,4 +11,3 @@ public class KafkaProducerApplication {
 	}
 
 }
-git
